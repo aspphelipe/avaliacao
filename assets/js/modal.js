@@ -7,11 +7,11 @@ const nextBtn = document.querySelector('.gallery-modal .next-btn');
 const stickyHeader = document.querySelector('.sticky-header');
 let currentIndex = 0;
 const images = [
-  'assets/img/thumbnail1.png',
-  'assets/img/thumbnail2.png',
-  'assets/img/thumbnail3.png',
-  'assets/img/thumbnail5.png',
-  'assets/img/thumbnail4.png'
+  'assets/img/thumbnail1.webp',
+  'assets/img/thumbnail2.webp',
+  'assets/img/thumbnail3.webp',
+  'assets/img/thumbnail5.webp',
+  'assets/img/thumbnail4.webp'
 ];
 
 // Populate the gallery grid
