@@ -305,7 +305,7 @@ body {
     right: 0;
     width: 60%;
     height: 100%;
-    background-image: url('../img/capa.png');
+    background-image: url('../img/capa.webp');
     background-size: cover;
     background-position: center right;
     z-index: 0;
@@ -512,7 +512,7 @@ cite {
     left: 0;
     width: 50%;
     height: 100%;
-    background-image: url('../img/capa2.png');
+    background-image: url('../img/capa2.webp');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center left;
